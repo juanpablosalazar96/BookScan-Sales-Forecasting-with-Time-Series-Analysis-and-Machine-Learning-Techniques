@@ -3,6 +3,7 @@
 This project focuses on analyzing and forecasting the weekly and monthly sales of two popular books—The Alchemist and The Very Hungry Caterpillar—using real-world sales data from BookScan. The analysis incorporates both classical time series models (like SARIMA) and machine learning models (XGBoost and LSTM), along with hybrid techniques. The objective is to compare the effectiveness of these forecasting methods and identify optimal models for sales prediction.
 
  **Objective**
+
 The goal of this project is to:
 
  - Predict future book sales using a combination of classical statistical and machine learning models.
